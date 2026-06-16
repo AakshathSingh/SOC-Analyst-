@@ -64,7 +64,9 @@ Evidence from the monitoring console confirmed:
 **Evidence: Alert Investigation**
 
 ```text
-<img width="1920" height="1200" alt="Screenshot 2026-06-16 124426" src="https://github.com/user-attachments/assets/10c46590-d7fa-47bd-a348-363ed24d7587" />
+<p align="center">
+  <img width="900" alt="SOC141 Alert Investigation" src="https://github.com/user-attachments/assets/10c46590-d7fa-47bd-a348-363ed24d7587" />
+</p>
 
 ```
 
