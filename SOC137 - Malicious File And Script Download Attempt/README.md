@@ -64,7 +64,8 @@ Evidence from the monitoring console confirmed:
 ### Evidence: Alert Investigation
 
 <p align="center">
-  <img width="900" alt="SOC137 Alert Investigation" src="./screenshots/soc137-alert-overview.png" />
+      <img width="1920" height="1200" alt="Screenshot 2026-06-16 135944" src="https://github.com/user-attachments/assets/3ad26809-b210-4a19-b8af-caf87441feab" />
+
 </p>
 
 ---
@@ -88,7 +89,8 @@ This activity strongly suggested attempted communication with suspicious externa
 ### Evidence: Log Analysis
 
 <p align="center">
-  <img width="900" alt="SOC137 Network Analysis" src="./screenshots/soc137-network-analysis.png" />
+  <img width="1920" height="1200" alt="Screenshot 2026-06-16 140221" src="https://github.com/user-attachments/assets/ee8a2297-f0c9-4665-ad50-6ef70d423fd0" />
+
 </p>
 
 ---
@@ -122,7 +124,8 @@ This evidence strongly suggests that the malicious document attempted to execute
 ### Evidence: PowerShell Execution
 
 <p align="center">
-  <img width="900" alt="SOC137 PowerShell Execution" src="./screenshots/soc137-powershell-execution.png" />
+    <img width="1920" height="1200" alt="Screenshot 2026-06-16 140528" src="https://github.com/user-attachments/assets/af64d4d3-6d52-469d-8b2c-315a41e88cd3" />
+
 </p>
 
 ---
@@ -161,7 +164,8 @@ These findings strongly validated the malicious nature of the document and incre
 ### Evidence: VirusTotal File Validation
 
 <p align="center">
-  <img width="900" alt="SOC137 VirusTotal Analysis" src="./screenshots/soc137-virustotal-analysis.png" />
+  <img width="1920" height="1200" alt="Screenshot 2026-06-16 141944" src="https://github.com/user-attachments/assets/9b7c231c-8bc2-4b7b-8b30-eabade82bdaf" />
+
 </p>
 
 ---
@@ -183,7 +187,8 @@ Containment actions were successfully completed during incident response.
 ### Evidence: Endpoint Containment
 
 <p align="center">
-  <img width="900" alt="SOC137 Endpoint Containment" src="./screenshots/soc137-endpoint-contained.png" />
+  <img width="1920" height="1200" alt="Screenshot 2026-06-16 140920" src="https://github.com/user-attachments/assets/18a01553-ebda-43b8-a1f9-9fc0f4761956" />
+
 </p>
 
 ---
@@ -302,5 +307,6 @@ Strengthen endpoint protections through:
 **Evidence: Incident Closure**
 
 <p align="center">
-  <img width="900" alt="SOC137 Incident Closure" src="./screenshots/soc137-incident-closure.png" />
+  <img width="1920" height="1200" alt="Screenshot 2026-06-16 141323" src="https://github.com/user-attachments/assets/83fbf9fc-4fa8-476b-a254-af44f2b92538" />
+
 </p>
