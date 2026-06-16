@@ -63,12 +63,11 @@ Evidence from the monitoring console confirmed:
 
 **Evidence: Alert Investigation**
 
-```text
+### Evidence: Alert Investigation
+
 <p align="center">
   <img width="900" alt="SOC141 Alert Investigation" src="https://github.com/user-attachments/assets/10c46590-d7fa-47bd-a348-363ed24d7587" />
 </p>
-
-```
 
 ---
 
@@ -101,18 +100,19 @@ These findings increased confidence that the endpoint communicated with confirme
 
 **Evidence: URL Reputation Validation**
 
-```text
-  <img width="1920" height="1200" alt="Screenshot 2026-06-16 124633" src="https://github.com/user-attachments/assets/d74736bc-117b-4b83-b35b-15ac9af8e790" />
+### Evidence: URL Reputation Validation
 
-```
+<p align="center">
+  <img width="900" alt="VirusTotal URL Reputation" src="https://github.com/user-attachments/assets/d74736bc-117b-4b83-b35b-15ac9af8e790" />
+</p>
 
 **Evidence: Domain Reputation Validation**
 
-```text
-<img width="1920" height="1200" alt="Screenshot 2026-06-16 124713" src="https://github.com/user-attachments/assets/3c12b7f8-f42d-42d2-ab8e-83b427758025" />
+### Evidence: Domain Reputation Validation
 
-```
-
+<p align="center">
+  <img width="900" alt="VirusTotal Domain Reputation" src="https://github.com/user-attachments/assets/3c12b7f8-f42d-42d2-ab8e-83b427758025" />
+</p>
 ---
 
 ### 3. Log Analysis – Confirmation of Access
@@ -134,10 +134,11 @@ This confirmed that the malicious infrastructure was **successfully accessed**, 
 
 **Evidence: Log Analysis**
 
-```text
-<img width="1920" height="1200" alt="Screenshot 2026-06-16 125009" src="https://github.com/user-attachments/assets/d50a88c1-4fa5-4061-ab07-e7d06e293f24" />
+### Evidence: Log Analysis
 
-```
+<p align="center">
+  <img width="900" alt="SOC141 Log Analysis" src="https://github.com/user-attachments/assets/d50a88c1-4fa5-4061-ab07-e7d06e293f24" />
+</p>
 
 ---
 
@@ -245,7 +246,8 @@ Strengthen web filtering policies to automatically block malicious domains and s
 
 **Evidence: Incident Closure**
 
-```text
-<img width="1920" height="1200" alt="Screenshot 2026-06-16 125348" src="https://github.com/user-attachments/assets/630e88df-a597-4acd-8cba-67d9357d196a" />
+### Evidence: Incident Closure
 
-```
+<p align="center">
+  <img width="900" alt="SOC141 Incident Closure" src="https://github.com/user-attachments/assets/630e88df-a597-4acd-8cba-67d9357d196a" />
+</p>
